@@ -111,6 +111,9 @@
       <option name="ENABLED" value="true" />
     </filter>
   </component>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://plugins.intellij.net/revu/ns/revu_1_0.xsd" location="$APPLICATION_HOME_DIR$/bin/file:/Users/mac/Library/Application%20Support/AndroidStudio2.0/revu.jar!/org/sylfra/idea/plugins/revu/resources/schemas/revu_1_0.xsd" />
+  </component>
   <component name="RefactoringSettings">
     <option name="MOVE_PREVIEW_USAGES" value="false" />
   </component>
