@@ -117,4 +117,16 @@
   <component name="RefactoringSettings">
     <option name="MOVE_PREVIEW_USAGES" value="false" />
   </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="http://HZQF-0256/svn/Pro_QF" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="http://HZQF-0256/svn/Pro_QF" />
+      </list>
+    </option>
+  </component>
 </application>
