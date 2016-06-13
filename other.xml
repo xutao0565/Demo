@@ -120,11 +120,20 @@
   <component name="SvnApplicationSettings">
     <option name="myCheckoutURLs">
       <list>
-        <option value="http://HZQF-0256/svn/Pro_QF" />
+        <option value="https://HZQF-0256/svn/Pro_QF/" />
+        <option value="https://CS-20140809UPTL/svn/aa/" />
+        <option value="https://hzqf-0265/svn/MyPro/" />
+        <option value="https://hzqf-0265/svn/Pro_QF" />
+        <option value="https://hzqf-0265/svn" />
       </list>
     </option>
     <option name="myTypedURLs">
       <list>
+        <option value="https://HZQF-0256/svn/Pro_QF/" />
+        <option value="https://CS-20140809UPTL/svn/aa/" />
+        <option value="https://hzqf-0265/svn/MyPro/" />
+        <option value="https://hzqf-0265/svn/Pro_QF" />
+        <option value="https://hzqf-0265/svn" />
         <option value="http://HZQF-0256/svn/Pro_QF" />
       </list>
     </option>
