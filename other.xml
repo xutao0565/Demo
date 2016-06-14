@@ -137,5 +137,6 @@
         <option value="http://HZQF-0256/svn/Pro_QF" />
       </list>
     </option>
+    <option name="mySvnCommandLine" value="/opt/subversion/bin/svn" />
   </component>
 </application>
